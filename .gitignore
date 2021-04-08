@@ -1,0 +1,8 @@
+### Pycharm ###
+.idea
+
+### Django ###
+*.log
+*.pot
+*.pyc
+.env
