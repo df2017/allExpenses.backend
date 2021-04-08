@@ -1,1 +1,1 @@
-web: gunicorn allexpensesback.wsgi
+web: gunicorn config.wsgi
